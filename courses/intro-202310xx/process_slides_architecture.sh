@@ -23,7 +23,7 @@ slidealias=( \
 #
 # Automatically set variables
 #
-training="${PWD##*/LUMI-training-lumio/courses/}"
+training="${PWD##*/LUMI-BE-training-lumio/courses/}"
 if [[ "$training" == "$PWD" ]]
 then
     echo "Failed to find the name of the course."
