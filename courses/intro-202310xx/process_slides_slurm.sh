@@ -9,10 +9,22 @@ slidealias=( \
     "SlurmConceptsPhys" \
     "SlurmConceptsLog" \
     "BatchScheduler" \
+    "BatchScript" \
     "Partitions_1" \
     "Partitions_2" \
     "Partitions_3" \
     "Fairness" \
+    "Accounting" \
+    "CreateJob" \
+    "PassingOptions" \
+    "SpecifyingResources" \
+    "RequestingCPUsGPUs" \
+    "PerNode" \
+    "PerNodeCPU" \
+    "PerNodeGPU" \
+    "PerNodeMultithreading" \
+    "PerNodeMultithreadingExample_1" \
+    "PerNodeMultithreadingExample_2" \
 )
 
 #
