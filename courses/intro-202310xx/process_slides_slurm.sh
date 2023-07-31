@@ -22,9 +22,17 @@ slidealias=( \
     "PerNode" \
     "PerNodeCPU" \
     "PerNodeGPU" \
-    "PerNodeMultithreading" \
-    "PerNodeMultithreadingExample_1" \
-    "PerNodeMultithreadingExample_2" \
+    "PerNodeJobStep_1" \
+    "PerNodeJobStep_2" \
+    "PerNodeHardwareThreading" \
+    "PerNodeHardwareThreadingExample_1" \
+    "PerNodeHardwareThreadingExample_2" \
+    "PerCoreWhenUse" \
+    "PerCoreResources_1" \
+    "PerCoreResources_2" \
+    "PerCoreWarningSocket" \
+    "PerCoreJobstep_1" \
+    "PerCoreJobstep_2" \
 )
 
 #
