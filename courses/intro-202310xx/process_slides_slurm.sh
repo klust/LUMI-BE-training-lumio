@@ -17,7 +17,9 @@ slidealias=( \
     "Accounting" \
     "CreateJob" \
     "PassingOptions" \
-    "SpecifyingResources" \
+    "SpecifyingOptions" \
+    "SpecifyingCommonOptions" \
+    "SpecifyingOutput" \
     "RequestingCPUsGPUs" \
     "PerNode" \
     "PerNodeCPU" \
