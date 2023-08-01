@@ -15,6 +15,7 @@ slidealias=( \
     "Partitions_3" \
     "Fairness" \
     "Accounting" \
+    "ManageJob" \
     "CreateJob" \
     "PassingOptions" \
     "SpecifyingOptions" \
