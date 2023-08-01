@@ -35,6 +35,15 @@ slidealias=( \
     "PerCoreWarningSocket" \
     "PerCoreJobstep_1" \
     "PerCoreJobstep_2" \
+    "JobEnvironment" \
+    "PassingArguments" \
+    "PassingArgumentsExample" \
+    "AutomaticRequeueing" \
+    "JobDependencies" \
+    "JobArrays" \
+    "HeterogeneousJobs" \
+    "HeterogeneousJobsExampleSBATCH" \
+    "HeterogeneousJobsExampleSrun" \
 )
 
 #
