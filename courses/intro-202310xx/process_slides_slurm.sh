@@ -41,6 +41,9 @@ slidealias=( \
     "PassingArgumentsExample" \
     "AutomaticRequeueing" \
     "JobDependencies" \
+    "JobInteractiveSalloc" \
+    "JobInteractiveSrun" \
+    "JobInteractiveAttach" \
     "JobArrays" \
     "HeterogeneousJobs" \
     "HeterogeneousJobsExampleSBATCH" \
