@@ -7,6 +7,7 @@ slidealias=( \
     "Title" \
     "WhyKnow" \
     "OperatingSystem" \
+    "LowNoiseMode" \
     "ProgrammingModels" \
     "DevelopmentEnvironment" \
     "CrayComplingEnv" \
