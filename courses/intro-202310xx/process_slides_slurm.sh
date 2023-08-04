@@ -27,13 +27,13 @@ slidealias=( \
     "PerNodeGPU" \
     "PerNodeJobStep_1" \
     "PerNodeJobStep_2" \
-    "PerNodeJobstepWarningGPU" \
     "PerNodeHardwareThreading" \
     "PerNodeHardwareThreadingExample_1" \
     "PerNodeHardwareThreadingExample_2" \
     "PerCoreWhenUse" \
     "PerCoreResources_1" \
     "PerCoreResources_2" \
+    "PerCoreResources_3" \
     "PerCoreWarningGPU" \
     "PerCoreWarningSocket" \
     "PerCoreJobstep_1" \
