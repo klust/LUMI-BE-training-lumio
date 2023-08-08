@@ -13,6 +13,7 @@ slidealias=( \
     "CrayComplingEnv" \
     "ScientificLibraries" \
     "CrayMPI" \
+    "CrayMPIGPU" \
     "Lmod" \
     "CompilerWrappers" \
     "SelectingCPEVersion" \
