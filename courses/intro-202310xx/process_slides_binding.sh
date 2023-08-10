@@ -5,8 +5,23 @@ slidestack="LUMI-BE-Intro-202310XX-08-binding"
 
 slidealias=( \
     "Title" \
-    "WhatIsSlurm" \
-
+    "WhatAbout" \
+    "WhenDone" \
+    "WhyNeedThis" \
+    "CoreNumbering" \
+    "GPUNumbering_1" \
+    "GPUNumbering_2" \
+    "GPUNumberingRemarks" \
+    "SlurmTaskDistribution_1" \
+    "SlurmTaskDistribution_2" \
+    "SlurmTaskCPU" \
+    "SlurmTaskCPUMasks" \
+    "SlurmTaskCPUExamples" \
+    "SlurmTaskGPU" \
+    "MPICHRankRedistribution" \
+    "OpenMPBinding" \
+    "OpenMPBindingPlaces" \
+    "OpenMPBindingProcBind" \
 )
 
 #
