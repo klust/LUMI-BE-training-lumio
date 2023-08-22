@@ -22,6 +22,11 @@ slidealias=( \
     "OpenMPBinding" \
     "OpenMPBindingPlaces" \
     "OpenMPBindingProcBind" \
+    "ROCRGPU" \
+    "ROCRGPUMap_1" \
+    "ROCRGPUMap_2" \
+    "ROCRGPURing" \
+    "ROCRMechanism" \
 )
 
 #
