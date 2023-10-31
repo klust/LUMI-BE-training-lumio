@@ -1,6 +1,7 @@
 #! /usr/bin/env bash
 
 projectid="465000095"
+bucket="training-materials-web"
 
 training="${PWD##*/LUMI-BE-training-lumio/courses/}"
 if [[ "$training" == "$PWD" ]]
@@ -19,8 +20,8 @@ repo="lumi-${projectid}-public"
 if [ -d $directory ]
 then
     echo "Found public data for training '$training', pushing now."
-    rclone mkdir "$repo:$training"
-    rclone copy --bwlimit ${RCLONE_BWLIMIT:-0} "$directory" "$repo:$training"
+    rclone mkdir "$repo:$bucket/$training"
+    rclone copy --bwlimit ${RCLONE_BWLIMIT:-0} "$directory" "$repo:$bucket/$training"
 else
     echo "No public data found for training '$training'."
 fi
@@ -33,8 +34,8 @@ repo="lumi-${projectid}-private"
 if [ -d $directory ]
 then
     echo "Found private data for training '$training', pushing now."
-    rclone mkdir "$repo:$training"
-    rclone copy --bwlimit ${RCLONE_BWLIMIT:-0} "$directory" "$repo:$training"
+    rclone mkdir "$repo:$bucket/$training"
+    rclone copy --bwlimit ${RCLONE_BWLIMIT:-0} "$directory" "$repo:$bucket/$training"
 else
     echo "No private data found for training '$training'."
 fi
