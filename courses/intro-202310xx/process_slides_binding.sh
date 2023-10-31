@@ -27,6 +27,13 @@ slidealias=( \
     "ROCRGPUMap_2" \
     "ROCRGPURing" \
     "ROCRMechanism" \
+    "ROCRMechanismLinearGCD1" \
+    "ROCRMechanismLinearGCD2" \
+    "ROCRMechanismLinearCCD1" \
+    "ROCRMechanismLinearCCD2" \
+    "ROCRMechanismGreenRing1" \
+    "ROCRMechanismGreenRing2" \
+    "ROCRMechanismAllocateByResource" \
 )
 
 #
