@@ -24,6 +24,7 @@ slidealias=( \
     "OtherModules" \
     "WarningLibraryPath" \
     "WarningOrderMatters" \
+    "NoteWrappers" \
 )
 
 #
