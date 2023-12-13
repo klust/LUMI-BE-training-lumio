@@ -121,16 +121,16 @@ done
 # Do the actual work of renaming the images.
 #
 
-cd "../${slidestack}-img"
-
-number=0
-for name in ${slidealias[@]}
-do 
-    number=$((number+1))
-    if [ -f "img$number.png" ]
-    then
-        echo "Moving img${number}.png to img-${name}.png"
-        /bin/mv -f "img${number}.png" "img-${name}.png"
-    fi
-done
+#cd "../${slidestack}-img"
+#
+#number=0
+#for name in ${slidealias[@]}
+#do 
+#    number=$((number+1))
+#    if [ -f "img$number.png" ]
+#    then
+#        echo "Moving img${number}.png to img-${name}.png"
+#        /bin/mv -f "img${number}.png" "img-${name}.png"
+#    fi
+#done
 
