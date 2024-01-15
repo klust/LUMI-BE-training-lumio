@@ -1,30 +1,25 @@
 #! /usr/bin/env bash
 
 # Some variables.
-slidestack="LUMI-BE-Intro-202310XX-12-support"
+slidestack="LUMI-BE-Intro-202310XX-10-lustre"
 
 slidealias=( \
     "Title" \
-    "DistributedNature1" \
-    "DistributedNature2" \
-    "L0Training" \
-    "L0ReadTheDocs1" \
-    "L0ReadTheDocs2" \
-    "L0Colleagues" \
-    "LUST1" \
-    "LUST2" \
-    "LUST3" \
-    "TicketsHowNot" \
-    "TicketsImprovedLogin" \
-    "Tickets1issue1ticket" \
-    "TicketsSubject" \
-    "TicketsThinkWithUs1" \
-    "TicketsThinkWithUs2" \
-    "TicketsXY" \
-    "HelpdeskRestrictions" \
-    "HelpdeskCanCannot1" \
-    "HelpdeskCanCannot2" \
-    "HelpdeskCanCannot3" \
+    "FileSystemLumi" \
+    "LustreBuildingBlocks1" \
+    "LustreBuildingBlocks2" \
+    "LustreFileStriping" \
+    "LustreFileAccess" \
+    "LustreParallelismKey" \
+    "LustreDetermineParameters" \
+    "LustreManageStriping1" \
+    "LustreManageStriping2" \
+    "LustreManageStriping3" \
+    "LustreManageStriping4" \
+    "LustreMDS" \
+    "LumiLustreOnLumi" \
+    "LumiStorageAreas" \
+    "LumiObjectStorage" \
 )
 
 #
