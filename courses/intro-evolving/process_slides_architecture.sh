@@ -1,18 +1,24 @@
 #! /usr/bin/env bash
 
 # Some variables.
-slidestack="LUMI-BE-Intro-202310XX-03-access"
+slidestack="LUMI-BE-Intro-evolving-01-architecture"
 
 slidealias=( \
     "Title" \
-    "WhoPays" \
-    "ProjectsUsers_1" \
-    "ProjectsUsers_2" \
-    "ProjectManagement" \
-    "FileSpaces_1" \
-    "FileSpaces_2" \
-    "Access" \
-    "DataTransfer" \
+    "WhyKnow" \
+    "LUMIIs" \
+    "LUMISpecs" \
+    "AMDMilanCCD" \
+    "AMDMilanCPU" \
+    "AMDMilanNode" \
+    "AMDMilanHierarchy" \
+    "AMDMilanDelays" \
+    "GPUnodeConcept"\
+    "GPUnodeReal" \
+    "GPUnodeFuture" \
+    "Slingshot" \
+    "AssemblyEX" \
+    "AssemblyLUMI" \
 )
 
 #

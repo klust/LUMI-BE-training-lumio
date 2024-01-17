@@ -1,30 +1,18 @@
 #! /usr/bin/env bash
 
 # Some variables.
-slidestack="LUMI-BE-Intro-202310XX-02-CPE"
+slidestack="LUMI-BE-Intro-evolving-03-access"
 
 slidealias=( \
     "Title" \
-    "WhyKnow" \
-    "OperatingSystem" \
-    "LowNoiseMode" \
-    "ProgrammingModels" \
-    "DevelopmentEnvironment" \
-    "CrayComplingEnv" \
-    "ScientificLibraries" \
-    "CrayMPI" \
-    "CrayMPIGPU" \
-    "Lmod" \
-    "CompilerWrappers" \
-    "SelectingCPEVersion" \
-    "TargetModules" \
-    "PrgEnvCompilerModules" \
-    "GettingHelp" \
-    "ChatGPT" \
-    "OtherModules" \
-    "WarningLibraryPath" \
-    "WarningOrderMatters" \
-    "NoteWrappers" \
+    "WhoPays" \
+    "ProjectsUsers_1" \
+    "ProjectsUsers_2" \
+    "ProjectManagement" \
+    "FileSpaces_1" \
+    "FileSpaces_2" \
+    "Access" \
+    "DataTransfer" \
 )
 
 #

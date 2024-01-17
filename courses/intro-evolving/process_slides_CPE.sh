@@ -1,24 +1,30 @@
 #! /usr/bin/env bash
 
 # Some variables.
-slidestack="LUMI-BE-Intro-202310XX-01-architecture"
+slidestack="LUMI-BE-Intro-evolving-02-CPE"
 
 slidealias=( \
     "Title" \
     "WhyKnow" \
-    "LUMIIs" \
-    "LUMISpecs" \
-    "AMDMilanCCD" \
-    "AMDMilanCPU" \
-    "AMDMilanNode" \
-    "AMDMilanHierarchy" \
-    "AMDMilanDelays" \
-    "GPUnodeConcept"\
-    "GPUnodeReal" \
-    "GPUnodeFuture" \
-    "Slingshot" \
-    "AssemblyEX" \
-    "AssemblyLUMI" \
+    "OperatingSystem" \
+    "LowNoiseMode" \
+    "ProgrammingModels" \
+    "DevelopmentEnvironment" \
+    "CrayComplingEnv" \
+    "ScientificLibraries" \
+    "CrayMPI" \
+    "CrayMPIGPU" \
+    "Lmod" \
+    "CompilerWrappers" \
+    "SelectingCPEVersion" \
+    "TargetModules" \
+    "PrgEnvCompilerModules" \
+    "GettingHelp" \
+    "ChatGPT" \
+    "OtherModules" \
+    "WarningLibraryPath" \
+    "WarningOrderMatters" \
+    "NoteWrappers" \
 )
 
 #

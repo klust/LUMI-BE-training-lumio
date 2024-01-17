@@ -1,7 +1,7 @@
 #! /usr/bin/env bash
 
 # Some variables.
-slidestack="LUMI-BE-Intro-202310XX-10-lustre"
+slidestack="LUMI-BE-Intro-evolving-10-lustre"
 
 slidealias=( \
     "Title" \
