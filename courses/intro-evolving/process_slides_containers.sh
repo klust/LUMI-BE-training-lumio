@@ -27,6 +27,18 @@ slidealias=( \
     "ContainersExampleWrapper_5" \
     "ContainersExampleWrapper_6" \
     "ContainersPrebuiltAI" \
+    "RunningAiComplicated" \
+    "RunningAIEasyBuild_1" \
+    "RunningAIEasyBuild_2" \
+    "RunningAIExampleNoEasyBuild_1" \
+    "RunningAIExampleNoEasyBuild_2" \
+    "RunningAIExampleNoEasyBuild_3" \
+    "RunningAIExampleEasyBuild" \
+    "ExtendingCotainr" \
+    "ExtendingSingularityBuild" \
+    "ExtendingPVenv_1" \
+    "ExtendingPVenv_2" \
+    "Demo" \
     "ContainersLimitations" \
 )
 
