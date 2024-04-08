@@ -22,6 +22,7 @@ slidealias=( \
     "EasyBuildInstallingStep2_1" \
     "EasyBuildInstallingStep2_2" \
     "EasyBuildInstallingStep3" \
+    "EasyBuildGROMACSSoftLib" \
     "EasyBuildGROMACSSearch_1" \
     "EasyBuildGROMACSSearch_2" \
     "EasyBuildGROMACS_01" \
