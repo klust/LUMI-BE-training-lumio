@@ -12,7 +12,9 @@ slidealias=( \
     "BatchScript" \
     "Partitions_1" \
     "Partitions_2" \
-    "Partitions_3" \
+    "PartitionsPerNode" \
+    "PartitionsByResources" \
+    "PartitionsCommands" \
     "Fairness" \
     "Accounting" \
     "ManageJob" \
@@ -27,6 +29,7 @@ slidealias=( \
     "PerNodeGPU" \
     "PerNodeJobStep_1" \
     "PerNodeJobStep_2" \
+    "PerNodeJobstepWarningGPU" \
     "PerNodeHardwareThreading" \
     "PerNodeHardwareThreadingExample_1" \
     "PerNodeHardwareThreadingExample_2" \
@@ -34,7 +37,6 @@ slidealias=( \
     "PerCoreResources_1" \
     "PerCoreResources_2" \
     "PerCoreResources_3" \
-    "PerCoreWarningGPU" \
     "PerCoreWarningSocket" \
     "PerCoreJobstep_1" \
     "PerCoreJobstep_2" \
@@ -50,6 +52,13 @@ slidealias=( \
     "HeterogeneousJobs" \
     "HeterogeneousJobsExampleSBATCH" \
     "HeterogeneousJobsExampleSrun" \
+    "SimultaneousJobSteps" \
+    "MonitoringSstat_1" \
+    "MonitoringSstat_2" \
+    "MonitoringSacct_1" \
+    "MonitoringSacct_2" \
+    "MonitoringSacct_3" \
+    "MonitoringSreport" \
 )
 
 #
