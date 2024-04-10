@@ -33,6 +33,7 @@ slidealias=( \
     "ROCRMechanismLinearCCD2" \
     "ROCRMechanismGreenRing1" \
     "ROCRMechanismGreenRing2" \
+    "ROCRMechanismGreenRing3" \
     "ROCRMechanismAllocateByResource" \
 )
 
