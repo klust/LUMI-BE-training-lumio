@@ -10,7 +10,8 @@ slidealias=( \
     "LustreBuildingBlocks2" \
     "LustreFileStriping" \
     "LustreFileAccess" \
-    "LustreParallelismKey" \
+    "LustreParallelismKey_1" \
+    "LustreParallelismKey_2" \
     "LustreDetermineParameters" \
     "LustreManageStriping1" \
     "LustreManageStriping2" \
