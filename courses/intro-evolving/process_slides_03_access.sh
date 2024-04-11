@@ -12,7 +12,28 @@ slidealias=( \
     "FileSpaces_1" \
     "FileSpaces_2" \
     "Access" \
+    "OpenOnDemand_01" \
+    "OpenOnDemand_02" \
+    "OpenOnDemand_03" \
+    "OpenOnDemand_04" \
+    "OpenOnDemand_05" \
+    "OpenOnDemand_06" \
+    "OpenOnDemand_07" \
+    "OpenOnDemand_08" \
+    "OpenOnDemand_09" \
     "DataTransfer" \
+    "LUMIOWhatIs" \
+    "LUMIOAccessing" \
+    "LUMIOAccessingKeyGeneration" \
+    "LUMIOCredentialsWeb_01" \
+    "LUMIOCredentialsWeb_02" \
+    "LUMIOCredentialsWeb_03" \
+    "LUMIOCredentialsWeb_04" \
+    "LUMIOCredentialsWeb_05" \
+    "LUMIOCredentialsWeb_06" \
+    "LUMIOCredentialsWeb_07" \
+    "LUMIOConfiguringTools" \
+    "LUMIORclone" \
 )
 
 #

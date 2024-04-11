@@ -38,7 +38,6 @@ slidealias=( \
     "ExtendingSingularityBuild" \
     "ExtendingPVenv_1" \
     "ExtendingPVenv_2" \
-    "Demo" \
     "ContainersLimitations" \
 )
 
