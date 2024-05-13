@@ -28,6 +28,8 @@ slidealias=( \
     "HelpdeskCanCannot1" \
     "HelpdeskCanCannot2" \
     "HelpdeskCanCannot3" \
+    "HelpdeskCanCannot4" \
+    "Questions" \
 )
 
 #

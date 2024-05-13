@@ -11,6 +11,7 @@ slidealias=( \
     "ProjectManagement" \
     "FileSpacesUser" \
     "FileSpacesProject" \
+    "FileSpacesQuota" \
     "FileSpacesFurtherInfo" \
     "Access" \
     "OpenOnDemand_01" \
@@ -23,7 +24,8 @@ slidealias=( \
     "OpenOnDemand_08" \
     "OpenOnDemand_09" \
     "DataTransfer" \
-    "LUMIOWhatIs" \
+    "LUMIOWhatIs_1" \
+    "LUMIOWhatIs_2" \
     "LUMIOAccessing" \
     "LUMIOAccessingKeyGeneration" \
     "LUMIOCredentialsWeb_01" \
@@ -35,6 +37,7 @@ slidealias=( \
     "LUMIOCredentialsWeb_07" \
     "LUMIOConfiguringTools" \
     "LUMIORclone" \
+    "Questions" \
 )
 
 #
@@ -45,6 +48,8 @@ if [[ "$training" == "$PWD" ]]
 then
     echo "Failed to find the name of the course."
     exit
+else
+    echo "Processing slides in public/$training/img/$slidestack..."
 fi
 
 #
