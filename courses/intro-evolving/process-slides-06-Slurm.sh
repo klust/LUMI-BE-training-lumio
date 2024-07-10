@@ -15,6 +15,7 @@ slidealias=( \
     "PartitionsPerNode" \
     "PartitionsByResources" \
     "PartitionsCommands" \
+    "PartitionsCommandsSinfo" \
     "Accounting" \
     "Fairness" \
     "ManageJob" \
