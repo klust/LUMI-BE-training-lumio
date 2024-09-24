@@ -36,6 +36,13 @@ slidealias=( \
     "ModuleAvail_4" \
     "ModuleAvail_5" \
     "ModuleAvail_6" \
+    "ModuleAvail_7" \
+    "ModuleAvail_8" \
+    "ModuleAvail_9" \
+    "ModuleAvail_10" \
+    "ModuleAvail_11" \
+    "ModuleAvail_12" \
+    "ModuleAvail_13" \
     "ChangingDisplayStyle" \
     "GettingHelp" \
     "NoteCaching" \
