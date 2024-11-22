@@ -1,7 +1,7 @@
 #! /usr/bin/env bash
 
 # Some variables.
-slidestack="LUMI-BE-Intro-evolving-10-ObjectStorage"
+slidestack="LUMI-BE-intro-evolving-10-ObjectStorage"
 
 slidealias=( \
     "Title" \
@@ -17,13 +17,26 @@ slidealias=( \
     "LUMIOCredentialsWebCreate_02" \
     "LUMIOCredentialsWebCreate_03" \
     "LUMIOCredentialsWebCreate_04" \
-    "LUMIOCredentialsWebCreate_05" \
+    "LUMIOCredentialsWebCheck" \
     "LUMIOCredentialsWebExtend" \
     "LUMIOCredentialsWebToolConfig_01" \
     "LUMIOCredentialsWebToolConfig_02" \
+    "LUMIOCredentialsOODOverview" \
     "LUMIOCredentialsOODCreate_01" \
+    "LUMIOCredentialsOODCreate_02" \
+    "LUMIOCredentialsOODCreate_03" \
+    "LUMIOCredentialsOODCreate_04" \
+    "LUMIOCredentialsOODCreate_05" \
+    "LUMIOCredentialsOODBrowse_01" \
+    "LUMIOCredentialsOODBrowse_02" \
+    "LUMIOCredentialsOODBrowse_03" \
+    "LUMIOCredentialsOODBrowse_04" \
     "LUMIOCLIToolConfig" \
     "LUMIOCLIToolConfigRclone" \
+    "PoliciesACLs" \
+    "PoliciesACLsExamples" \
+    "SharingData" \
+    "SharingDataPresignedURL" \
     "TipsAndTricks_01" \
     "Questions" \
 )
