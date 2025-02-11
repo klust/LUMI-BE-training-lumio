@@ -1,7 +1,7 @@
 #! /usr/bin/env bash
 
 # Some variables.
-slidestack="LUMI-BE-intro-evolving-10-ObjectStorage"
+slidestack="LUMI-BE-Intro-evolving-10-ObjectStorage"
 
 slidealias=( \
     "Title" \
