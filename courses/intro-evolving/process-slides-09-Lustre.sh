@@ -7,6 +7,11 @@ slidealias=( \
     "Title" \
     "FileSystemLumi" \
     "LustreBuildingBlocks1" \
+    "LustreBuildingBlocks1_1_separation" \
+    "LustreBuildingBlocks1_2_MDS" \
+    "LustreBuildingBlocks1_3_OSS" \
+    "LustreBuildingBlocks1_4_client" \
+    "LustreBuildingBlocks1_5_network" \
     "LustreBuildingBlocks2" \
     "LustreFileStriping" \
     "LustreFileAccess" \
@@ -15,6 +20,11 @@ slidealias=( \
     "LustreDetermineParameters" \
     "LustreManageStriping1" \
     "LustreManageStriping2" \
+    "LustreManageStriping2_1_dir" \
+    "LustreManageStriping2_2_default" \
+    "LustreManageStriping2_3_ost" \
+    "LustreManageStriping3" \
+    "LustreManageStriping4" \
     "LustreManageStriping3" \
     "LustreManageStriping4" \
     "LustreMDS_1" \
