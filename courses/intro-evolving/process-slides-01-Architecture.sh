@@ -15,7 +15,7 @@ slidealias=( \
     "AMDMilanDelays" \
     "GPUnodeConcept"\
     "GPUnodeReal" \
-    "GPUnodeFuture" \
+    "GPUnodeNextGen" \
     "Slingshot" \
     "DragonflyConcept1" \
     "DragonflyConcept2" \

@@ -5,7 +5,7 @@ slidestack="LUMI-BE-Intro-evolving-04-Modules"
 
 slidealias=( \
     "Title" \
-    "ModuleEnvironments" \
+    "EnvironmentModulesImplementations" \
     "ExploringWithLmod" \
     "BenefitsHierarchy" \
     "BenefitsHierarchyDemo" \
@@ -30,10 +30,11 @@ slidealias=( \
     "ModuleSpiderCMake2" \
     "ModuleSpiderCMake3" \
     "ModuleSpiderCMake4" \
+    "ModuleSpiderCMake5" \
     "ModuleSpiderCMakeVersion_1" \
     "ModuleKeyword" \
-    "ModuleKeywordHTTPS_1" \
-    "ModuleKeywordHTTPS_2" \
+    "ModuleKeywordEditor_1" \
+    "ModuleKeywordEditor_2" \
     "StickyModules" \
     "ModuleAvail_1" \
     "ModuleAvail_2" \
@@ -46,7 +47,6 @@ slidealias=( \
     "ModuleAvail_9" \
     "ModuleAvail_10" \
     "ModuleAvail_11" \
-    "ModuleAvail_12" \
     "ChangingDisplayStyle" \
     "GettingHelp" \
     "NoteCaching" \

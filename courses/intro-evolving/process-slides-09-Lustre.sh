@@ -14,7 +14,10 @@ slidealias=( \
     "LustreBuildingBlocks1_5_network" \
     "LustreBuildingBlocks2" \
     "LustreFileStriping" \
-    "LustreFileAccess" \
+    "LustreFileAccess_0_full" \
+    "LustreFileAccess_1_queryMDS" \
+    "LustreFileAccess_2_returnMDS" \
+    "LustreFileAccess_3_writeOSS" \
     "LustreParallelismKey_1" \
     "LustreParallelismKey_2" \
     "LustreDetermineParameters" \
@@ -23,8 +26,6 @@ slidealias=( \
     "LustreManageStriping2_1_dir" \
     "LustreManageStriping2_2_default" \
     "LustreManageStriping2_3_ost" \
-    "LustreManageStriping3" \
-    "LustreManageStriping4" \
     "LustreManageStriping3" \
     "LustreManageStriping4" \
     "LustreMDS_1" \
