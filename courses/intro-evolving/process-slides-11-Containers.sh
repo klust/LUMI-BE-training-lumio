@@ -44,6 +44,16 @@ slidealias=( \
     "ContainersExtendVenvDemo4_2" \
     "ContainersExtendVenvDemo4_3" \
     "ContainersExtendVenvDemo5" \
+    "ContainersExtendPRoot" \
+    "ContainersExtendPRootDemo1_1" \
+    "ContainersExtendPRootDemo1_2" \
+    "ContainersExtendPRootDemo1_3" \
+    "ContainersExtendPRootDemo1_4" \
+    "ContainersExtendPRootDemo1_5" \
+    "ContainersExtendPRootDemo2_1" \
+    "ContainersExtendPRootDemo2_2" \
+    "ContainersExtendPRootDemo2_3" \
+    "ContainersExtendPRootBonus" \
     "ContainersLimitations" \
     "Questions" \
 )
