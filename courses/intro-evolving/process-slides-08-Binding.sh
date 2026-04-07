@@ -8,6 +8,7 @@ slidealias=( \
     "WhatAbout" \
     "WhenDone" \
     "WhyNeedThis" \
+    "CheckBindings" \
     "CoreNumbering" \
     "GPUNumbering_1" \
     "GPUNumbering_2" \
