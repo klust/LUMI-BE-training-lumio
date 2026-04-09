@@ -20,7 +20,8 @@ slidealias=( \
     "SlurmTaskCPUHow" \
     "SlurmTaskCPUMasks" \
     "SlurmTaskCPUExamples" \
-    "SlurmTaskGPU" \
+    "SlurmTaskGPU_1" \
+    "SlurmTaskGPU_2" \
     "MPICHRankRedistribution1" \
     "MPICHRankRedistribution2" \
     "MPICHNICSelection" \
@@ -34,12 +35,19 @@ slidealias=( \
     "ROCRMechanism" \
     "ROCRMechanismLinearGCD1" \
     "ROCRMechanismLinearGCD2" \
+    "ROCRMechanismLinearGCD3" \
+    "ROCRMechanismLinearGCD4" \
     "ROCRMechanismLinearCCD1" \
     "ROCRMechanismLinearCCD2" \
     "ROCRMechanismLinearCCD3" \
+    "ROCRMechanismLinearCCD4" \
+    "ROCRMechanismLinearCCD5" \
+    "ROCRMechanismLinearCCD6" \
     "ROCRMechanismGreenRing1" \
     "ROCRMechanismGreenRing2" \
     "ROCRMechanismGreenRing3" \
+    "ROCRMechanismGreenRing4" \
+    "ROCRMechanismGreenRing5" \
     "ROCRMechanismAllocateByResource" \
     "Questions" \
 )
