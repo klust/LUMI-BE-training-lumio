@@ -12,8 +12,6 @@ slidealias=( \
     "BatchScript" \
     "Partitions_1" \
     "Partitions_2" \
-    "PartitionsPerNode" \
-    "PartitionsByResources" \
     "PartitionsCommands" \
     "PartitionsCommandsSinfo" \
     "Accounting" \
